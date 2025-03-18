@@ -1,0 +1,13 @@
+faculdade Uniesp
+curso: Ciências da computação
+disciplina: tópicos essenciais em programação
+Nome: Carlos Eduardo Gomes Filho
+
+Resposta de lista de exercícios
+
+Questão 1
+
+
+Questão 2
+
+Questão 3
