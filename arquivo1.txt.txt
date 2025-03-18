@@ -1,6 +1,6 @@
 faculdade Uniesp
 curso: Ciências da computação
-disciplina: tópicos essenciais em programação
+disciplina: Introdução a programação
 Nome: Carlos Eduardo Gomes Filho
 
 Resposta de lista de exercícios
@@ -10,4 +10,12 @@ Questão 1
 
 Questão 2
 
-Questão 3
+
+
+Questão 4
+
+Questão 5
+
+Questão 6
+
+Questão 10
